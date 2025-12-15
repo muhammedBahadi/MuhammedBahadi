@@ -47,8 +47,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bahadi-5264b526a/)
 
----
 
-![Visitor Count](https://profile-counter.glitch.me/MuhammedBahadi/count.svg)
-
-> ✨ _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
